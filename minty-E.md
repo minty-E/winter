@@ -1,10 +1,10 @@
 ---
 name: "@minty-E"
-project: "Your Project Name Here"
+project: "2FA USB Key"
 ---
 
 # Project Name
-
+2FA USB Key
 ## Summary
 
 What are you going to build? What does it do? Why are you excited to build it?
